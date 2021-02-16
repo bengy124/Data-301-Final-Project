@@ -19,8 +19,7 @@ Building a dashboard using this data should be straightforward, as a lot of vari
 
 ## Describe your dataset in about 150-200 words
 
-The Steam data set given by the Data.world user Craig Kelly, is gather from public Steam api and compiled into a comma separated value file. There are around 13500 entries in this particular dataset which are 
-
+The Steam data group 1030 has chosen is given by the Data.world user Craig Kelly, this data is gathered from public Steam API, which can be used to see information on purchases through Steam this dataset will only include video games and not market transactions. The Steam API is then compiled into a comma separated value file that gives us a list of available games. There are around thirteen thousand five hundred entries in this dataset each of which has an abundance of comparable variables and options for use in sorting and comparing. These variables go from player base to release date to operating system to price, there is also options for sorting through with steam tags or genres which can be seen on any game that can be purchased through or is available on Steam. With this dataset we have a good amount of comparable data with many variables and options to give a wide variety of conclusions that our group can make when analyzing the data. 
 ## Team Members
 
 - Austin Butler: I probably account for 50% of the hours played within the dataset.
@@ -29,5 +28,5 @@ The Steam data set given by the Data.world user Craig Kelly, is gather from publ
 
 ## References
 
-https://github.com/CraigKelly/steam-data
+https://github.com/CraigKelly/steam-data  
 https://data.world/craigkelly/steam-game-data
