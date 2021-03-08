@@ -22,7 +22,7 @@
 
   - Austin Butler: I probably account for 50% of the hours played within the dataset.
   - Cawston: This data intrest me as I have played a video game before.
-  - Bengy: I bought an expensive gaming PC to just to play Roblox and Minecraft. 
+  - Bengy: I bought an expensive gaming PC just to play Roblox and Minecraft. 
 
 ## References
 
