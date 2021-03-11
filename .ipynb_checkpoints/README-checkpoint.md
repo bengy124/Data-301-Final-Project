@@ -1,6 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=366928&assignment_repo_type=GroupAssignmentRepo)
-# Group 1030 - EPic gamer data 
-
+# Group 1030 - Epic gamer data 
+---
 ## Milestones
 
 [Milestone 1](https://firas.moosvi.com/courses/data301/project/milestone01.html).
@@ -20,9 +20,9 @@
   The Steam data group 1030 has chosen is given by the Data.world user Craig Kelly, this data is gathered from public Steam API, which can be used to see information on purchases through Steam this dataset will only include video games purchases and ownership from 2016 and not market transactions. The Steam API is then compiled into a comma separated value file that gives us a list of available games. There are around thirteen thousand five hundred entries in this dataset each of which has an abundance of comparable variables and options for use in sorting and comparing. These variables go from player base to release date to operating system to price, there is also options for sorting through with steam tags or genres which can be seen on any game that can be purchased through or is available on Steam. With this dataset we have a good amount of comparable data with many variables and options to give a wide variety of conclusions that our group can make when analyzing the data. 
 ## Team
 
-  - Austin Butler: I probably account for 50% of the hours played within the dataset.
-  - Cawston: This data intrest me as I have played a video game before.
-  - Bengy: I bought an expensive gaming PC just to play Roblox and Minecraft. 
+  - **Austin Butler**: I probably account for 50% of the hours played within the dataset.
+  - **Cawston**: This data intrest me as I have played a video game before.
+  - **Bengy**: I bought an expensive gaming PC just to play Roblox and Minecraft. 
 
 ## References
 
