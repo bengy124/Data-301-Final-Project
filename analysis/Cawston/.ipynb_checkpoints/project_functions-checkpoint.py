@@ -13,3 +13,6 @@ def Column_var_sort(df,col,up_down):
 def Rating_Sort(df,val):
     d2=df.loc[lambda x: x['Rating']>val]
     return d2
+def boolean_to_inta(df):
+    df=df*1
+    return df
