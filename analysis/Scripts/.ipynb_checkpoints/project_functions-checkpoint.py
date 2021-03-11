@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 def load_and_process(csv):
     data=pd.read_csv(csv)
 #Drop Unwanted Columns
@@ -8,5 +10,6 @@ def load_and_process(csv):
 def Column_var_sort(df,col,up_down):
     df1=(df.sort_values(col,ascending=up_down))
     return df1
-def Rating_Sort(df,val)
+def Rating_Sort(df,val):
     d2=df.loc[lambda x: x['Rating']>val]
+    return d2
