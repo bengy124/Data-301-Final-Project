@@ -82,3 +82,32 @@ def Rating_Sort(df,val):
 def Split_Genre(df,col):
     d3 = df[df[col] == True]
     return d3
+def plotOwners(df):
+    dfIndie=df[df.GenreIsIndie == True]
+    dfAction=df[df.GenreIsAction == True]
+    dfCasual=df[df.GenreIsCasual == True]
+    dfAdventure=df[df.GenreIsAdventure == True]
+    dfStrategy=df[df.GenreIsStrategy == True]
+    dfRPG=df[df.GenreIsRPG == True]
+    dfSimulation=df[df.GenreIsSimulation == True]
+    dfEA=df[df.GenreIsEarlyAccess == True]
+    dfFTP=df[df.GenreIsFreeToPlay == True]
+    dfSports=df[df.GenreIsSports == True]
+    dfRacing=df[df.GenreIsRacing == True]
+    dfMM=df[df.GenreIsMassivelyMultiplayer == True]
+    Total = df["Owners"].sum()
+    Indie = dfIndie["Owners"].sum()
+    Action = dfAction["Owners"].sum()
+    Casual = dfCasual["Owners"].sum()
+    Adventure = dfAdventure["Owners"].sum()
+    Strategy = dfStrategy["Owners"].sum()
+    RPG = dfRPG["Owners"].sum()
+    Simulation = dfSimulation["Owners"].sum()
+    EarlyAccess = dfEA["Owners"].sum()
+    FreeToPlay = dfFTP["Owners"].sum()
+    Sports = dfSports["Owners"].sum()
+    Racing = dfRacing["Owners"].sum()
+    MassivelyMultiplayer = dfMM["Owners"].sum()
+    ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
+    dataFrame=pd.DataFrame(data=ap)
+    dataFrame.plot.bar(x="Genre",y="Owners")

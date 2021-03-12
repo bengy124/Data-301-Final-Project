@@ -1,5 +1,6 @@
 ### Notable Changes to project functions
    1. Added 3 New functions 3/10/2021
+   2. Added Plot function
    
 ### ERRORS
    1. **IMPORT NOT WORKING**
