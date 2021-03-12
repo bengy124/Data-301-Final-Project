@@ -3,7 +3,8 @@
    1. Done
    2. In Progress
       1. Add more functions
-      2. add visuals
+         1. will talk over with group
+      2. ~~add visuals~~ done
       3. fix import scripts
       
 ## Errors
