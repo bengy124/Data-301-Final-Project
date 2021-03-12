@@ -69,9 +69,16 @@ def load_and_process(csv):
          .rename(columns={"SteamSpyOwners":"Owners"})
          .rename(columns={"RecommendationCount":"Recommendations"})
          .rename(columns={"ResponseName":"Games"}))
-    return df2
+    #Add Revenue in Millions column
+    df3=(df2
+        .assign(RevenueMillions=data.SteamSpyOwners*data.PriceFinal/1000000))
+    return df3
 def Column_var_sort(df,col,up_down):
     df1=(df.sort_values(col,ascending=up_down))
     return df1
 def Rating_Sort(df,val):
     d2=df.loc[lambda x: x['Rating']>val]
+    return d2
+def Split_Genre(df,col):
+    d3 = df[df[col] == True]
+    return d3
