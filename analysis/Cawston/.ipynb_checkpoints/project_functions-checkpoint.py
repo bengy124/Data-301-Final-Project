@@ -108,6 +108,67 @@ def plotOwners(df):
     Sports = dfSports["Owners"].sum()
     Racing = dfRacing["Owners"].sum()
     MassivelyMultiplayer = dfMM["Owners"].sum()
+    print('Total Games : ', Total, ' Indie : ', Indie,' Action  : ', Action, ' Casual  : ', Casual,' Adventure  : ', Adventure, ' Strategy: ', Strategy, 'RPG  : ', RPG, ' Simulation  : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
+    ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
+    dataFrame=pd.DataFrame(data=ap)
+    dataFrame.plot.bar(x="Genre",y="Owners")
+def Genrecount(df):
+    dfIndie=df[df.GenreIsIndie == True]
+    dfAction=df[df.GenreIsAction == True]
+    dfCasual=df[df.GenreIsCasual == True]
+    dfAdventure=df[df.GenreIsAdventure == True]
+    dfStrategy=df[df.GenreIsStrategy == True]
+    dfRPG=df[df.GenreIsRPG == True]
+    dfSimulation=df[df.GenreIsSimulation == True]
+    dfEA=df[df.GenreIsEarlyAccess == True]
+    dfFTP=df[df.GenreIsFreeToPlay == True]
+    dfSports=df[df.GenreIsSports == True]
+    dfRacing=df[df.GenreIsRacing == True]
+    dfMM=df[df.GenreIsMassivelyMultiplayer == True]
+    Total = df['Games'].count()
+    Indie = dfIndie['Games'].count()
+    Action = dfAction['Games'].count()
+    Casual = dfCasual['Games'].count()
+    Adventure = dfAdventure['Games'].count()
+    Strategy = dfStrategy['Games'].count()
+    RPG = dfRPG['Games'].count()
+    Simulation = dfSimulation['Games'].count()
+    EarlyAccess = dfEA['Games'].count()
+    FreeToPlay = dfFTP['Games'].count()
+    Sports = dfSports['Games'].count()
+    Racing = dfRacing['Games'].count()
+    MassivelyMultiplayer = dfMM['Games'].count()
+    print('Total Games : ', Total, ' Indie Games : ', Indie,' Action Games : ', Action, ' Casual Games : ', Casual,' Adventure Games : ', Adventure, ' Strategy Games: ', Strategy, 'RPG  : ', RPG, ' Simulation Games : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
+    ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Games":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
+    dataFrame=pd.DataFrame(data=ap)
+    dataFrame.plot.bar(x="Genre",y="Games")
+def plotRevenue(df):
+    dfIndie=df[df.GenreIsIndie == True]
+    dfAction=df[df.GenreIsAction == True]
+    dfCasual=df[df.GenreIsCasual == True]
+    dfAdventure=df[df.GenreIsAdventure == True]
+    dfStrategy=df[df.GenreIsStrategy == True]
+    dfRPG=df[df.GenreIsRPG == True]
+    dfSimulation=df[df.GenreIsSimulation == True]
+    dfEA=df[df.GenreIsEarlyAccess == True]
+    dfFTP=df[df.GenreIsFreeToPlay == True]
+    dfSports=df[df.GenreIsSports == True]
+    dfRacing=df[df.GenreIsRacing == True]
+    dfMM=df[df.GenreIsMassivelyMultiplayer == True]
+    Total = df["RevenueMillions"].sum()
+    Indie = dfIndie["RevenueMillions"].sum()
+    Action = dfAction["RevenueMillions"].sum()
+    Casual = dfCasual["RevenueMillions"].sum()
+    Adventure = dfAdventure["RevenueMillions"].sum()
+    Strategy = dfStrategy["RevenueMillions"].sum()
+    RPG = dfRPG["RevenueMillions"].sum()
+    Simulation = dfSimulation["RevenueMillions"].sum()
+    EarlyAccess = dfEA["RevenueMillions"].sum()
+    FreeToPlay = dfFTP["RevenueMillions"].sum()
+    Sports = dfSports["RevenueMillions"].sum()
+    Racing = dfRacing["RevenueMillions"].sum()
+    MassivelyMultiplayer = dfMM["RevenueMillions"].sum()
+    print('Total  : ', Total, ' Indie  : ', Indie,' Action  : ', Action, ' Casual  : ', Casual,' Adventure : ', Adventure, ' Strategy : ', Strategy, 'RPG  : ', RPG, ' Simulation  : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
     ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
     dataFrame=pd.DataFrame(data=ap)
     dataFrame.plot.bar(x="Genre",y="Owners")
