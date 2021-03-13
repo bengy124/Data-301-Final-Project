@@ -171,3 +171,8 @@ def plotRevenue(df):
     ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
     dataFrame=pd.DataFrame(data=ap)
     dataFrame.plot.bar(x="Genre",y="Owners")
+def genreratingplot(data1,genre):
+    dfrated = data1.loc[lambda x: x['Rating']>0]
+    genresplit = dfrated[dfrated[genre] == True]
+    genreplot = sns.displot(x="Rating", data=genresplit, bins = 20).set(title=("Rating Histogram for "+genre))
+    return genreplot
