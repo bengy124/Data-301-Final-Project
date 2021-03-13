@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 def load_and_process(csv):
     data=pd.read_csv(csv)
-#Drop Unwanted Columns
-    df1 = (pd.DataFrame(data)
+#Drop Unwanted Columns & remove non-games
+    df1 = (pd.DataFrame(data[data['GenreIsNonGame'] != True])
            .drop('DemoCount',axis=1)
            .drop('Reviews',axis=1)
            .drop('Website',axis=1)
@@ -54,7 +54,6 @@ def load_and_process(csv):
            .drop('CategoryMultiplayer',axis=1)
            .drop('CategoryCoop',axis=1)
            .drop('CategoryMMO',axis=1)
-           .drop('CategoryInAppPurchase',axis=1)
            .drop('CategoryIncludeSrcSDK',axis=1)
            .drop('CategoryIncludeLevelEditor',axis=1)
            .drop('CategoryVRSupport',axis=1)
