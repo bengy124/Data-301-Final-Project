@@ -1,0 +1,666 @@
+,Games,ReleaseDate,Rating,Recommendations,Owners,CategoryInAppPurchase,GenreIsIndie,GenreIsAction,GenreIsAdventure,GenreIsCasual,GenreIsStrategy,GenreIsRPG,GenreIsSimulation,GenreIsEarlyAccess,GenreIsFreeToPlay,GenreIsSports,GenreIsRacing,GenreIsMassivelyMultiplayer,PriceInitial,PriceFinal,RevenueMillions
+20,Team Fortress 2,Oct 10 2007,92,383949,37878812,True,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+23,Dota 2,Jul 9 2013,90,590480,90687580,True,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+197,Bloodline Champions,Oct 28 2011,79,1381,682066,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+303,Champions Online,Jun 14 2011,72,2160,777480,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+304,Star Trek Online,Jan 31 2012,76,7304,1604461,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+354,Dragon Nest,Dec 18 2012,0,1481,628979,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+483,Tribes: Ascend,Jun 27 2012,86,7269,1883350,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+499,Pirates Vikings and Knights II,Feb 12 2010,0,2862,693904,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+500,Dystopia,Feb 6 2009,0,692,224725,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+502,Empires Mod,Jul 28 2008,0,451,100615,False,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+611,DC Universe(tm) Online,Nov 2 2011,72,9610,2414763,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+876,Forsaken World,Jun 14 2011,69,821,425238,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+996,CrimeCraft: GangWars,Aug 22 2011,68,1844,835052,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+999,RIFT,Mar 1 2011,84,8009,2640923,True,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1050,Altitude,Dec 4 2009,79,1406,453754,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1161,Stronghold Kingdoms,Feb 27 2012,75,6647,1426905,False,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+1226,Tactical Intervention,Oct 8 2013,47,13219,2549634,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1452,Spiral Knights,Jun 14 2011,64,15519,2751402,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1453,Puzzle Pirates,Aug 31 2011,0,957,411069,False,False,False,True,True,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+1461,A.V.A. Alliance of Valiant Arms(tm),Jun 14 2011,0,8010,1343508,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1470,Super MNC,Apr 19 2012,76,4379,1382247,False,True,True,False,False,True,False,False,False,True,True,False,False,0.0,0.0,0.0
+1471,ORION: Prelude,Apr 15 2013,0,27713,2330469,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1487,War Inc. Battlezone,Jul 18 2011,0,3030,1249349,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1497,MicroVolts Surge,Jul 5 2012,0,3515,860519,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+1499,Neverwinter,Dec 5 2013,74,18128,4486609,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1518,APB Reloaded,Dec 6 2011,0,24608,4571083,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+1519,Fallen Earth Free2Play,Feb 22 2012,71,6303,1947736,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1539,Realm of the Mad God,Feb 20 2012,82,22224,2768440,False,True,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1561,Pox Nora,Oct 15 2014,0,407,425597,False,False,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+1562,EverQuest(r) II Free-To-Play. Your Way.(tm),Dec 7 2011,83,819,598848,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1596,Americas Army: Proving Grounds,Aug 2013,0,6142,2146276,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1646,Everquest (r),Dec 13 2012,0,492,453396,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1652,Chronicle: RuneScape Legends,May 26 2016,76,1405,325161,True,False,False,True,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+1660,Gotham City Impostors Free to Play,Aug 30 2012,0,9300,2637874,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1667,Dungeons & Dragons Online(r),Jun 25 2012,0,1442,728877,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1668,AirMech(r),Nov 8 2012,0,6994,1296518,False,True,True,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+1681,ArcheBlade(tm),Apr 25 2014,0,6963,2016427,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1702,Moon Breakers,May 17 2012,0,429,355292,False,True,True,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+1703,Loadout,Jan 31 2014,72,40106,5482896,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1745,War of the Immortals,Aug 30 2012,0,274,438330,False,False,True,False,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1751,Blacklight: Retribution,Jul 2 2012,75,14567,2896137,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1783,RaceRoom Racing Experience,Feb 12 2013,0,5750,3133058,True,False,False,False,False,False,False,True,False,True,True,True,False,0.0,0.0,0.0
+1795,Star Conflict,Feb 27 2013,75,8394,1959394,False,False,True,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+1797,Vindictus,Jun 22 2012,76,3784,933515,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1798,Mabinogi,Dec 6 2012,0,1922,555446,False,False,True,True,True,False,True,True,False,True,False,False,True,0.0,0.0,0.0
+1799,Atlantica Online,Jun 29 2012,0,115,295389,False,False,True,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+1800,Continent of the Ninth Seal,Sep 13 2012,0,1014,626468,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1803,The Lord of the Rings Online,Jun 6 2012,86,5405,2129597,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1809,Super Crate Box,Aug 29 2012,0,6179,1018526,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1812,The Lord of the Rings Online,Jun 6 2012,86,5405,0,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1819,Dwarfs - F2P,Oct 18 2012,0,1468,587370,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+1831,Gear Up,Jan 28 2015,0,6992,2077227,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1850,WAKFU,Sep 18 2014,76,3373,1186039,False,False,False,True,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+1851,Ragnarok Online,Oct 31 2013,79,980,486934,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1852,ROSE Online,Oct 23 2012,0,360,459852,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1867,Dungeon-Party,Mar 13 2013,0,408,362286,False,False,False,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+1872,MapleStory,Aug 9 2012,0,3378,715246,False,False,False,False,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1890,Age of Conan: Unchained,Feb 22 2013,0,777,452858,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1898,Dungeonland,Nov 12 2013,67,1866,1007407,False,False,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+1899,PlanetSide 2,Nov 20 2012,84,32759,7027275,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+1900,Frontline Tactics,Oct 26 2012,0,1031,476711,False,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+1901,Smashmuck Champions,Sep 11 2013,0,898,0,False,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+1917,The Banner Saga: Factions,Feb 25 2013,67,704,459494,False,True,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+1921,Dogs of War Online,Feb 4 2014,0,673,218448,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+1968,Rail Adventures - VR Tech Demo,Aug 25 2016,0,0,29593,False,True,True,False,False,False,False,False,False,True,False,True,False,0.0,0.0,0.0
+1969,Champions of Regnum,Feb 27 2013,0,701,449450,False,True,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+1993,AirBuccaneers, ,74,560,202486,False,True,True,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+1997,DCS World,Aug 2 2013,0,2963,1449683,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+2005,No More Room in Hell,Oct 31 2013,0,42348,7067629,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2015,Defiance,Jun 4 2014,64,9269,3409615,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2039,Sven Co-op,Jan 22 2016,0,5917,1432106,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2042,Marvel Heroes 2016,Jun 3 2013,81,11337,5098371,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2061,Kingdom Wars,Apr 1 2013,0,2210,533027,False,True,False,False,False,True,True,True,False,True,False,False,True,0.0,0.0,0.0
+2074,Firefall,Jul 29 2014,60,8313,3018095,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2081,Heroes & Generals,Jul 11 2014,0,54072,12908686,True,True,True,False,False,False,False,False,True,True,False,False,True,0.0,0.0,0.0
+2113,Akaneiro: Demon Hunters,Nov 25 2014,53,244,71740,False,True,True,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+2115,Warframe,Mar 25 2013,68,97562,14497544,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2126,Ragnarok Online 2,May 1 2013,0,0,1230697,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2142,SolForge,Jul 25 2016,0,0,309557,False,False,False,False,True,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+2178,Gear Up,Jan 28 2015,0,0,0,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2186,Marvel Puzzle Quest,Dec 5 2013,0,0,387036,False,False,False,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+2205,Prime World,Mar 31 2014,65,2745,595441,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2208,Kings Bounty: Legions,Dec 10 2013,0,0,233513,False,True,False,True,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+2222,Dungeon Defenders II,Dec 5 2014,0,0,2546405,False,True,True,False,False,True,True,False,True,True,False,False,False,0.0,0.0,0.0
+2227,War Thunder,Aug 15 2013,82,0,10461461,True,False,False,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+2243,Elsword,Jul 2 2014,0,4967,1090087,False,False,True,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2267,Pinball Arcade,Nov 4 2013,0,2306,740534,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+2280,Path of Exile,Oct 23 2013,86,33124,6170343,False,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2288,The Mighty Quest For Epic Loot,Feb 25 2014,64,11512,2217837,False,False,True,True,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+2294,Soldier Front 2,Jul 3 2013,0,2063,582169,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2300,Panzar,Nov 25 2013,0,4051,1122190,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+2335,GunZ 2: The Second Duel,May 1 2014,0,9530,3150634,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2364,Tom Clancys Ghost Recon Phantoms - NA,Apr 10 2014,70,19042,0,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2370,Rise of Flight United,Sep 5 2013,77,910,295389,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+2379,NEOTOKYO,Jul 4 2014,0,2478,1140663,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2390,SNOW,Oct 10 2013,0,5699,1223523,True,True,False,False,False,False,False,True,True,True,True,False,False,0.0,0.0,0.0
+2411,Happy Wars,Jul 23 2014,0,6115,1878687,False,False,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+2465,Toribash,May 16 2014,0,10516,2497802,False,True,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+2506,8BitMMO,Jan 26 2015,0,5074,880427,False,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2513,The Plan,Feb 14 2014,0,18944,634001,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2610,CABAL Online,Feb 17 2016,0,470,206252,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2618,theHunter,Jun 3 2014,0,19923,4234444,False,False,True,True,False,False,False,True,False,True,True,False,False,0.0,0.0,0.0
+2677,Might & Magic: Duel of Champions,Nov 7 2013,84,3751,0,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+2696,Max Gentlemen,Aug 21 2014,0,957,264899,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2697,Infinity Wars: Animated Trading Card Game,Sep 5 2014,0,2769,644044,True,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+2727,Dragons Prophet,Sep 18 2013,63,704,267052,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2778,Get Off My Lawn!,Nov 11 2014,0,1400,362107,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2779,The Four Kings Casino and Slots,Jun 1 2015,0,2523,353139,False,False,False,False,True,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+2826,World of Guns: Gun Disassembly,May 21 2014,0,8724,2187348,False,True,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+2867,Dragons and Titans,Mar 12 2014,43,2644,1162006,False,True,True,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+2869,Villagers and Heroes,Apr 17 2014,0,2546,691751,False,True,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2890,Victory: The Age of Racing,Feb 12 2016,0,744,378966,False,True,False,False,False,False,False,True,False,True,True,True,False,0.0,0.0,0.0
+2901,La Tale,Jun 17 2014,0,1401,801872,False,False,True,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2928,Fistful of Frags,May 9 2014,0,17156,2947610,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2932,Cannons Lasers Rockets,Aug 25 2014,0,543,237459,False,True,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+2943,DRAKERZ-Confrontation,May 19 2014,0,252,132360,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+2945,City of Steam: Arkadia,Mar 6 2014,0,1228,359058,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+2949,Lost Saga NA,Nov 25 2014,0,556,272073,False,False,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+2962,Anarchy Arcade,Sep 3 2014,0,2194,639023,False,True,False,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+2963,Conquest of Champions,Apr 23 2014,0,251,142942,False,True,False,False,False,True,True,False,True,True,False,False,False,0.0,0.0,0.0
+2998,Aura Kingdom,Jul 2014,0,5089,2199543,False,False,False,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3055,Depression Quest,Aug 11 2014,0,3461,292519,False,True,False,False,False,False,True,True,False,True,False,False,False,0.0,0.0,0.0
+3082,HAWKEN,Feb 14 2014,73,17673,3361011,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+3114,Counter-Strike Nexon: Zombies,Oct 7 2014,0,24111,6954639,False,False,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+3116,Evolve Stage 2,Feb 10 2015,77,35278,4904673,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3218,Deadbreed(r),Apr 14 2016,0,2513,754344,False,True,True,True,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+3282,Creativerse,Aug 12 2014,0,8837,2251196,True,True,True,True,True,False,True,True,True,True,False,False,True,0.0,0.0,0.0
+3341,Lucent Heart,Feb 11 2016,0,201,150474,False,False,False,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3368,Heroines Quest: The Herald of Ragnarok,Mar 20 2014,0,686,282296,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+3376,Lost Squad,Coming soon,0,0,0,False,False,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3422,ACE - Arena: Cyber Evolution,Aug 18 2014,0,1086,498412,False,True,True,False,False,True,False,False,True,True,True,False,False,0.0,0.0,0.0
+3486,Mortal Online,Aug 31 2015,0,2011,595799,False,True,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3545,Requiem: Rise of the Reaver,Mar 4 2015,0,318,257905,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3558,Echo of Soul,Jun 22 2015,0,1455,562440,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3572,My Lands: Black Gem Hunting,Sep 16 2014,0,3251,305432,False,True,False,False,True,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+3595,Duelyst,Aug 23 2016,82,1411,412863,True,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+3598,Warface 2016: Anubis,Jul 1 2014,62,24336,6385383,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3599,Brawlhalla,Apr 30 2014,0,27890,4846026,False,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+3656,Card Hunter,Jul 13 2015,80,2699,780888,False,False,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+3665,Amazing World(tm),Aug 7 2014,0,2313,614272,False,False,False,True,False,False,True,True,False,True,False,False,True,0.0,0.0,0.0
+3667,Guns and Robots,Aug 4 2014,0,1625,1171691,False,True,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3691,Galcon 2: Galactic Conquest,Dec 5 2014,0,687,250910,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+3723,Royal Quest,Aug 6 2014,0,1066,770127,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3729,Darkwind: War on Wheels,Aug 22 2014,0,402,231182,False,True,False,False,False,True,True,False,False,True,False,True,True,0.0,0.0,0.0
+3779,Famaze,May 5 2014,0,297,164822,False,True,False,False,True,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+3807,Eldevin,Nov 5 2014,0,1166,341840,False,True,False,False,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3810,Red Crucible(r): Firestorm,Dec 22 2015,0,5998,1779865,True,True,True,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+3811,Only If,Jul 25 2014,39,5511,1230518,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3846,Block N Load,Apr 30 2015,72,9150,2169951,False,False,True,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+3848,CubeGun,May 21 2014,0,237,129490,False,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+3864,Forgotten Myths CCG,Mar 21 2016,0,0,53626,True,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+3865,Divine Souls F2P MMO,Aug 15 2014,0,857,550245,False,True,True,True,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+3867,Total War Battles: KINGDOM,Apr 9 2015,0,2754,577864,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+3884,Gear Up,Jan 28 2015,0,6993,0,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3893,Fiesta Online NA,May 20 2014,0,377,391161,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+3909,Robocraft,Jul 8 2014,0,71023,11319470,False,True,True,False,False,False,True,True,True,True,False,False,True,0.0,0.0,0.0
+3954,Floating Point,Jun 6 2014,0,2898,899438,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+3972,BLOCKADE 3D,Dec 19 2014,0,19051,3533904,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+4005,ArcheAge,Mar 26 2015,80,3906,1111071,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+4006,Trove,Jul 9 2015,0,40879,7174342,True,False,True,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+4022,Star Sonata 2,Fall 2016,0,0,0,False,True,False,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+4028,Unturned,Jul 7 2014,0,222301,27025292,True,True,True,True,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+4034,Battle Islands,Aug 6 2014,0,3136,532130,False,False,False,False,False,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+4081,Zombies Monsters Robots (ZMR),Sep 19 2014,0,2417,785910,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4082,BattleSpace,Jan 7 2015,0,0,128594,False,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+4096,Velvet Sundown,Jul 22 2014,0,1931,652653,False,True,False,True,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+4145,The Way of Life,May 31 2016,0,6748,1141201,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4146,Fractured Space,Nov 2014,0,6505,2111662,True,True,True,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+4189,BloodRealm: Battlegrounds,Feb 12 2015,0,219,208763,False,False,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+4206,Wild Warfare,Jul 15 2014,0,896,303639,False,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+4213,Simply Chess,Sep 11 2015,0,1030,294671,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4245,The Expendabros,Aug 5 2014,0,11834,2758217,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4270,Sunrider: Mask of Arcadius,Jul 9 2014,0,2190,552576,False,True,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+4277,Pool Nation FX Lite,Dec 7 2015,0,848,479043,False,True,False,False,True,True,False,True,False,True,True,False,False,0.0,0.0,0.0
+4278,Boid,Jul 8 2016,0,535,205176,True,True,True,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4293,The Forgotten Ones,Jul 17 2014,0,1263,578940,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4326,Age of Conquest IV,Apr 5 2016,0,731,216296,True,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4360,Magic Duels,Jul 29 2015,0,15930,2093010,True,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4371,sZone-Online,Dec 29 2015,0,6364,1732338,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+4398,Uncharted Waters Online: Episode Atlantis,Oct 3 2014,0,512,277633,False,False,False,True,False,True,True,True,False,True,False,False,True,0.0,0.0,0.0
+4405,Double Action: Boogaloo,Oct 23 2014,0,7554,1814838,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4407,Color Symphony,Sep 15 2014,0,1200,341482,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4409,Cubic Castles,Aug 13 2014,0,3503,937819,False,True,True,True,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+4472,Heroes of SoulCraft - Arcade MOBA,Jul 20 2015,0,419,217192,False,True,True,False,True,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+4474,GRANADO ESPADA,Jan 7 2016,0,136,66180,False,False,True,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+4499,Warside,May 5 2015,0,340,176301,False,False,True,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+4529,Sigils of Elohim,Oct 13 2014,0,776,242839,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4539,Rising Angels: Reborn,Sep 12 2014,0,554,185089,False,True,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+4594,TERA,May 5 2015,77,9834,3773336,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+4611,March of War: FaceOff - M,Jul 16 2015,0,449,126262,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4724,CaesarIA,Jan 20 2015,0,1068,297003,False,True,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+4741,Tales Runner,Feb 17 2015,0,516,297003,True,False,True,True,True,False,False,False,False,True,False,True,False,0.0,0.0,0.0
+4776,Battlegrounds of Eldhelm,Oct 22 2014,0,187,129490,False,True,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+4779,Gems of War,Nov 20 2014,0,1845,300231,False,False,True,True,True,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+4802,Krosmaster Arena,Nov 9 2015,0,234,168230,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4809,Kingdoms CCG,Jan 22 2015,0,105,95414,True,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4836,Running Shadow,Feb 20 2015,0,781,415732,False,False,True,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+4851,Heavy Metal Machines,2016,0,0,121240,False,True,True,False,False,True,False,False,False,True,True,True,False,0.0,0.0,0.0
+4857,Everlasting Summer,Nov 19 2014,0,16484,1075918,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4879,School of Dragons,Dec 4 2014,0,2830,1153218,False,False,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+4943,Dirty Bomb(r),Jun 2015,63,29390,5819535,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4947,Epic Arena,May 5 2015,0,278,179170,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+4985,Magic Barrage - Bitferno,Jan 2015,0,669,297720,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+4990,Transformice,Jan 30 2015,0,7915,2079738,False,True,False,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+4994,Brick-Force,Dec 11 2014,0,3935,1444482,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5010,Dream Of Mirror Online,Aug 14 2015,0,393,194415,False,False,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5023,Combat Monsters,Jan 20 2015,0,163,143838,False,True,True,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+5043,Anno Online,Jul 1 2015,0,850,385960,False,False,False,False,False,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+5044,Might & Magic Heroes Online,Nov 24 2015,0,575,240866,False,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+5048,HIT,Feb 9 2015,0,477,286780,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5073,Karos,Dec 24 2014,0,242,361031,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5091,The SKIES,Apr 16 2016,0,2516,802948,True,False,False,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+5095,Echoes+,Jan 15 2015,0,779,242839,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5109,Batla,May 14 2015,0,2180,630234,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5116,Nightbanes,Mar 30 2015,0,298,162132,False,True,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+5122,Navy Field 2 : Conqueror of the Ocean,Mar 5 2015,0,1210,576430,False,False,True,False,False,True,True,True,False,True,False,False,True,0.0,0.0,0.0
+5129,Demise of Nations,Apr 21 2015,0,132,96131,False,True,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+5139,Fork Parkers Holiday Profit Hike,Dec 18 2014,0,568,309557,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5147,Strife(r),May 22 2015,0,3883,1447531,False,False,True,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+5164,VEGA Conflict,Dec 14 2015,0,1341,369998,False,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+5165,Freestyle2: Street Basketball,Apr 1 2015,0,5198,4012230,False,False,True,False,True,True,False,False,False,True,True,False,True,0.0,0.0,0.0
+5198,Quintet,May 11 2015,0,322,151550,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5207,Spartans Vs Zombies Defense,Jan 6 2015,0,727,172893,False,True,True,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+5213,TDP4:Team Battle,Mar 12 2015,0,511,221317,False,False,True,True,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5227,Deepworld,Apr 22 2015,0,581,232258,False,True,True,True,True,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+5271,Among Ripples,Jan 22 2015,0,1178,455369,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+5292,Games of Glory,May 26 2015,0,276,191904,False,False,True,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+5295,MechWarrior Online(tm),Dec 10 2015,0,3205,928134,False,False,True,False,False,True,False,True,False,True,False,False,True,0.0,0.0,0.0
+5316,HIS (Heroes In the Sky),Mar 3 2015,0,405,259878,False,False,True,False,True,True,True,True,False,True,False,False,False,0.0,0.0,0.0
+5330,Destination Sol,Feb 5 2015,0,1198,418961,False,True,True,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+5355,CroNix,Jul 17 2015,0,428,284628,False,False,True,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+5358,Irrational Exuberance: Prologue,Apr 5 2016,0,227,102767,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5359,InMind VR,Jan 19 2015,0,320,242481,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5376,Immortal Empire,Dec 3 2015,0,214,115501,True,True,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+5430,Universal Combat CE 2.0,Feb 6 2015,0,240,121061,False,True,True,False,False,True,False,True,False,True,False,False,False,9.99,9.99,1.2093993900000002
+5434,Without Within,Jan 22 2015,0,1822,227595,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5452,Boring Man - Online Tactical Stickman Combat,Feb 20 2015,0,2800,767437,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5462,The Old Tree,Jan 26 2015,0,2525,255573,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5465,BrainBread 2,Jul 20 2016,0,1695,982298,False,True,True,True,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+5489,AdVenture Capitalist,Mar 30 2015,0,31606,4000751,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5525,16 Bit Arena,Mar 24 2015,0,0,124648,False,True,True,False,True,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+5556,Bierzerkers,Feb 25 2016,0,550,215040,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5564,Voices from the Sea,Mar 24 2015,0,959,179350,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5567,Walkover,Mar 23 2015,0,101,104381,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5607,Romeros Aftermath,Sep 24 2015,0,10092,2047096,False,True,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5608,Audition Online,Jun 3 2015,0,980,376096,False,False,False,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5617,The Gate,Apr 27 2015,0,181,121240,False,False,True,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+5641,Alganon,May 19 2015,0,205,110838,False,True,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5642,Red Stone Online,Apr 2015,0,208,115322,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5652,Bloodwood Reload,Nov 2 2015,0,264,128414,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5653,Pixel Puzzles Ultimate,Sep 9 2016,0,0,367487,False,True,False,False,True,True,False,True,False,True,True,False,False,0.0,0.0,0.0
+5659,Rustbucket Rumble,May 4 2015,0,346,258801,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5671,CleanEm Up,Aug 18 2016,0,0,24930,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5678,Fire With Fire Tower Attack and Defense,Mar 29 2016,0,161,86267,False,True,False,False,True,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+5679,Eternal Senia,Jun 18 2015,0,6431,492494,False,True,True,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+5684,Invisible Apartment,Mar 2 2015,0,378,175763,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5685,Dev Guy,May 20 2015,0,1693,267769,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5704,Curse of Mermos,Jun 23 2015,0,272,167513,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5726,Subspace Continuum,Jul 3 2015,0,344,126980,False,False,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5741,Time of Dragons,Feb 1 2016,0,1430,530516,False,True,True,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+5749,how do you Do It?,Feb 27 2015,0,2562,297362,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5771,Aberoth,Jul 17 2015,0,891,181143,False,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5775,LoveBeat,Jan 13 2016,0,678,147246,False,False,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5789,The Settlers Online,Aug 19 2015,0,629,338612,False,False,False,False,False,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+5813,TDP5 Arena 3D,Mar 26 2015,0,173,178094,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+5821,Codename CURE,Jul 17 2015,0,7407,1438025,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+5848,Survarium,Apr 2 2015,0,12247,3092704,False,False,True,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+5861,Heroes of Scene,Aug 26 2015,0,642,255753,False,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+5872,METAL SLUG DEFENSE,May 1 2015,0,1161,458238,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5873,Dragomon Hunter,Dec 2 2015,0,842,461646,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+5874,Soccer Manager 2015,Jul 16 2015,0,525,356368,False,False,False,False,False,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+5890,Spookys Jump Scare Mansion,Jul 28 2015,0,7202,1046684,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5914,Frozen Free Fall: Snowball Fight,Sep 15 2015,0,1743,212350,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+5962,Stargunner,May 5 2014,0,0,73892,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6020,Copa Petrobras de Marcas,Apr 8 2015,0,1272,761518,False,False,False,False,False,False,False,True,False,True,True,True,False,0.0,0.0,0.0
+6050,Cards and Castles,Dec 18 2015,0,516,108506,True,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+6053,Run and Fire,May 27 2015,0,556,653371,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6057,Ultimate Tic-Tac-Toe,Apr 28 2015,0,1088,239611,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6109,Metal Reaper Online,Sep 17 2015,0,458,214143,False,False,False,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+6129,Regimental Chess,Apr 29 2015,0,101,97028,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+6193,Clicker Heroes,May 13 2015,0,33323,4549920,False,True,False,True,True,True,True,True,False,True,False,False,False,0.0,0.0,0.0
+6198,Swordsman,Jan 28 2016,0,427,328389,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6243,Escape,Apr 20 2015,0,288,162491,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+6245,One Manga Day,May 4 2015,0,819,155317,False,True,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+6258,Shadow Hunter,Apr 20 2015,0,0,75506,False,True,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+6261,Transmissions: Element 120,Jun 16 2016,0,3594,537331,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6336,Mainland,May 8 2015,0,195,108327,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6388,Visibility,May 25 2015,0,0,26006,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6424,Jigoku Kisetsukan: Sense of the Seasons,May 12 2015,0,1310,189393,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6426,Force of Elements,Dec 29 2015,0,0,36587,False,True,True,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+6429,Vinyl,Jul 1 2016,0,164,54702,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6439,Ghost in the Shell: Stand Alone Complex - First Assault Online,Jul 28 2016,0,8975,1258317,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+6449,Let the Cat in,Aug 27 2015,0,891,195312,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+6521,Karos Returns,Jul 30 2015,0,367,143300,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6553,Tree of Savior (English Ver.),Mar 28 2016,0,10982,1727854,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6558,Astro Lords: Oort Cloud,Jan 15 2016,0,0,83936,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6570,The Lost Mythologies,Jan 28 2016,0,1255,241584,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6582,RPG MO,Aug 18 2015,0,1003,308661,False,True,False,True,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+6583,Shot In The Dark,Jun 10 2015,0,126,76762,False,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+6598,All Is Dust,Jun 26 2015,0,1050,345248,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6613,Ryzom,May 6 2016,64,221,126441,False,True,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6650,Ember Strike,May 26 2016,0,469,96490,True,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+6672,Bitweb,Jun 3 2015,0,127,75865,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6708,Viridi,Aug 19 2015,46,3637,568897,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+6713,SAGA,Aug 4 2015,61,108,99360,False,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+6725,WildStar,Jun 9 2016,82,2384,866258,True,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6746,Tactical Genius,Jun 24 2015,0,130,84294,False,True,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+6755,Close Your Eyes,Aug 31 2015,0,468,137920,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6798,The Knobbly Crook: Chapter I - The Horse You Sailed In On,Jun 9 2015,0,133,94876,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6799,Nomad,Jun 26 2015,0,1071,200692,False,True,True,True,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+6843,Alteil: Horizons,Sep 2016,0,0,21343,True,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+6853,The Secret of Tremendous Corporation,Oct 12 2015,0,206,97746,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6857,Tap Tap Infinity,Jul 17 2015,0,743,276198,False,True,True,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+6863,Fishing Planet,Aug 11 2015,0,6351,1829724,False,False,False,False,False,False,False,True,True,True,True,False,True,0.0,0.0,0.0
+6869,Wind of Luck: Arena,Aug 18 2015,0,379,164822,False,True,True,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+6871,Teeworlds,Aug 24 2015,0,2084,669691,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6893,Epic Cards Battle(TCG),Jul 9 2015,0,637,153344,False,False,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+6897,Allods Online RU,Jan 26 2016,0,478,127159,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6901,Tom Clancys EndWar(r) Online,Jan 25 2016,0,374,0,False,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+6909,Dragon Saga,Dec 22 2015,65,504,255932,False,False,False,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+6930,Relic Hunters Zero,Aug 18 2015,0,3987,866438,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6933,Piercing Blow,Nov 10 2015,0,1278,513478,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+6945,Sakura Clicker,Jul 29 2015,0,11532,1176354,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+6983,Florensia,September 2016,0,0,38201,False,False,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+6991,Prominence Poker,May 18 2016,0,624,194774,True,False,False,False,False,True,False,True,True,True,False,False,True,0.0,0.0,0.0
+7024,Battle for Blood - Epic battles within 30 seconds!,Jul 8 2015,0,617,174328,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+7040,Lamia Must Die,Aug 26 2015,0,156,84474,False,False,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+7046,Radiator 2,Jun 16 2016,0,1467,165360,False,True,True,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+7055,Astrolordy: Oblako Oorta,Sep 29 2015,0,130,81245,False,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+7066,Time Clickers,Jul 23 2015,0,3294,860878,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7071,Gladiators Online: Death Before Dishonor,Nov 4 2015,0,444,152447,False,True,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+7072,Golden Rush,Sep 23 2015,0,448,167871,False,False,True,False,False,True,True,False,True,True,False,False,True,0.0,0.0,0.0
+7094,SMITE,Sep 8 2015,83,18333,4652328,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7110,Affected Zone Tactics,Nov 17 2015,0,124,71022,False,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+7138,Shadow of Kingdoms,Aug 11 2015,0,0,86805,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+7144,Build a Game Universe,Aug 2016,0,0,1347,True,True,True,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+7147,the static speaks my name,Aug 10 2015,0,4021,311172,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+7153,Clown House (Palyaco Evi),Aug 24 2015,0,786,212888,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7176,One Way To Die: Steam Edition,Sep 1 2015,0,290,165719,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7212,Knight Online,Jan 25 2016,0,5890,1530928,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+7216,Garlock Online,May 30 2016,0,118,55240,False,True,True,True,False,True,True,False,True,True,False,False,True,0.0,0.0,0.0
+7217,Mitos.is: The Game,Jul 29 2015,0,8973,1709202,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+7246,Steel Ocean,Nov 12 2015,0,2448,750399,False,False,False,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+7277,Fingerbones,Aug 3 2015,0,2386,244633,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7287,WARMODE,Aug 25 2015,0,10053,1770360,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+7301,Uebergame,Oct 26 2015,0,392,135947,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7309,BattleSouls,May 12 2016,0,197,119985,True,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7320,Silver Creek Falls: Chapter 1,Aug 12 2015,0,451,112632,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7339,Lost Lands: A Hidden Object Adventure,Sep 24 2015,0,2422,132539,False,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7354,World of Soccer online,Aug 26 2015,0,1013,336460,False,True,True,False,False,False,False,False,False,True,True,False,True,0.0,0.0,0.0
+7358,Insanity Clicker,Jun 7 2016,0,1319,337357,True,True,False,True,True,True,True,True,False,True,False,False,False,0.0,0.0,0.0
+7370,RoShamBo,Jul 14 2016,0,362,178094,True,True,True,False,True,False,True,False,True,True,True,False,False,0.0,0.0,0.0
+7375,Atom Universe,Mar 4 2016,0,230,97925,False,False,False,False,True,False,False,False,True,True,False,False,True,0.0,0.0,0.0
+7387,BattleStick,May 6 2016,0,612,248937,False,True,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+7401,Battleline: Steel Warfare,Aug 25 2016,0,131,77658,True,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+7429,Missing Translation,Sep 24 2015,0,1853,316552,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7449,InCell VR,Sep 3 2015,0,147,95593,False,True,False,False,False,True,False,False,False,True,False,True,False,0.0,0.0,0.0
+7484,Sphere III: Enchanted World,Dec 2 2015,0,247,126441,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+7487,MachineCraft,Mar 25 2016,0,503,268128,False,True,False,False,False,False,False,True,True,True,False,False,False,0.0,0.0,0.0
+7545,Absent,Aug 31 2015,0,165,91827,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7556,War of Beach,Oct 15 2015,0,432,126621,False,False,True,False,False,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+7582,Comedy Quest,Sep 2 2015,0,192,89675,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7587,Battle Battalions,Nov 3 2015,0,267,173252,False,False,True,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+7599,Cloney,Jan 19 2016,0,175,100077,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7681,Atlas Reactor,May 12 2016,0,685,459314,True,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+7706,Crusaders of the Lost Idols,Oct 13 2015,0,1137,328927,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7709,Nyctophilia,Sep 23 2015,0,260,108686,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7741,Codename: Rogue Fleet,Jan 15 2016,0,320,97387,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7770,Endless Sky,Oct 30 2015,0,2093,468461,False,False,True,True,False,False,True,True,False,True,False,False,False,0.0,0.0,0.0
+7773,SC2VN - The eSports Visual Novel,Sep 22 2015,0,706,138637,False,True,False,True,True,False,True,True,False,True,False,False,False,0.0,0.0,0.0
+7776,Relive,Oct 15 2015,0,0,70305,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7814,Sentou Gakuen: Revival,TBA 2016,0,0,0,False,True,False,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+7828,Legend of Dungeon: Masters,Nov 30 2015,0,191,125903,False,True,False,False,True,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+7867,AltspaceVR,Mar 31 2016,0,153,94876,False,False,False,False,True,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+7869,Soccer Manager 2016,Oct 7 2015,0,657,354036,False,True,False,False,False,True,False,False,False,True,True,False,False,0.0,0.0,0.0
+7873,Pro Evolution Soccer 2016 myClub,Feb 3 2016,0,5445,1879404,False,False,False,False,False,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+7881,Devilian,Dec 10 2015,63,1731,390265,False,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+7932,Dr. Langeskov The Tiger and The Terribly Cursed Emerald: A Whirlwind Heist,Dec 4 2015,0,5638,426673,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7950,Genesis Online,Nov 10 2015,0,1260,263106,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7959,Pink Hour,Oct 28 2015,0,679,143659,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7960,Pink Heaven,Nov 3 2015,0,432,134512,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+7977,HEX: Shards of Fate,Apr 19 2016,87,1026,199616,True,False,False,True,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+8050,Electric Highways,Oct 28 2015,0,754,122496,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8059,GASP,Jan 19 2016,0,995,210915,False,True,True,False,True,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+8064,Metal War Online: Retribution,Dec 2015,0,488,399950,False,False,True,False,False,False,False,False,True,True,False,True,True,0.0,0.0,0.0
+8083,Back to Dinosaur Island,Nov 18 2015,0,526,459135,False,False,False,True,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8087,Metal Assault,Mar 18 2016,0,254,94697,False,False,True,True,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+8101,Krosmaster Arena,Nov 9 2015,0,234,0,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+8133,Epic Clicker Journey,Apr 21 2016,0,565,204100,True,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8147,Star Crusade CCG,Sep 7 2016,0,1047,160159,True,False,False,False,True,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+8164,Tactical Craft Online,Feb 12 2016,0,876,251627,False,True,False,False,False,True,True,False,True,True,False,False,True,0.0,0.0,0.0
+8201,Emporea: Realms of War and Magic,Jun 8 2016,0,300,139175,True,True,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+8208,Gunslingers,Dec 17 2015,0,264,95235,False,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+8232,Emily is Away,Nov 20 2015,0,24543,1469591,False,True,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8234,Apotheon Arena,Dec 8 2015,0,710,290188,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8236,Street Warriors Online,Jan 18 2016,0,236,78734,False,False,True,False,False,False,False,False,True,True,True,False,False,0.0,0.0,0.0
+8244,March of War: FaceOff - XL,Nov 18 2015,0,157,48604,False,True,False,False,True,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+8310,StarBreak,May 10 2016,0,597,214143,True,True,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+8313,I must kill...: Fresh Meat,Nov 30 2015,0,187,80349,False,True,False,True,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+8335,CUPID - A free to play Visual Novel,Mar 4 2016,0,479,131643,False,True,False,False,False,False,True,True,False,True,False,False,False,0.0,0.0,0.0
+8345,World of Fishing,Sep 6 2016,0,281,200154,True,False,False,False,False,False,True,True,False,True,True,False,True,0.0,0.0,0.0
+8359,Metaverse Construction Kit,Dec 6 2015,0,200,140072,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8394,Carpe Diem,Nov 30 2015,0,5171,259878,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8409,Iron Snout,Jan 27 2016,0,7445,859981,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8417,Imperia Online,Apr 15 2016,0,137,73892,False,False,False,False,False,True,False,True,False,True,False,False,True,0.0,0.0,0.0
+8456,Full Tilt Poker,Jan 26 2016,0,0,74789,False,False,False,False,True,True,False,False,False,True,True,False,True,0.0,0.0,0.0
+8463,Age of Magic CCG,Mar 20 2016,0,160,64566,False,False,False,False,True,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+8469,Orcs Must Die! Unchained - Open Beta,Mar 29 2016,0,3195,1219218,True,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+8530,Red Haze,Releasing between October 21st - November 25th,0,0,0,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8531,Take the Dream IX,Apr 1 2016,0,0,50218,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+8549,Sepia Tears,Jan 8 2016,0,574,121778,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8563,Spellweaver,Feb 1 2016,63,916,194774,False,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+8568,AdventureQuest 3D,Fall 2016,0,0,314579,True,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+8602,Clash of the Monsters,Apr 13 2016,0,270,83398,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8604,Frosty Kiss,Jan 8 2016,0,800,123931,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8624,KABOUNCE,Q4 2016,0,0,0,False,True,True,False,False,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+8643,Elemental Heroes,Mar 3 2016,0,110,83936,True,True,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+8679,BlackShot: Mercenary Warfare FPS,May 31 2016,0,1331,680094,True,False,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8714,Premium Pool,Mar 14 2016,0,692,239970,True,True,False,False,False,False,False,True,False,True,True,False,False,0.0,0.0,0.0
+8715,To Burn in Memory,Jan 19 2016,0,0,107072,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8737,Mathoria: It All Adds Up,Mar 30 2016,0,0,45913,False,True,False,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+8766,Lost Lands: Mahjong,Mar 14 2016,0,2946,89316,False,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8785,Galaxy Control: 3D Strategy,Aug 10 2016,0,190,139893,True,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+8800,Medusas Labyrinth,Feb 15 2016,0,735,245350,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8802,Governor of Poker 3,Feb 19 2016,0,1183,354395,True,False,False,False,True,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+8803,The Panic Room,Apr 27 2016,0,201,97028,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+8844,SOLRAVEN,Mar 3 2016,0,0,82860,False,True,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8856,Party Jousting,Mar 1 2016,0,371,156752,False,True,False,False,True,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+8862,Shakes and Fidget,Feb 24 2016,0,3358,617142,False,True,False,True,True,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+8889,Soccer Manager,Feb 9 2016,0,151,165360,False,True,False,False,False,True,False,True,False,True,True,False,True,0.0,0.0,0.0
+8894,Heroes of Shadow Guard,Aug 3 2016,0,0,27799,True,True,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+8922,Lucid9: Inciting Incident,Apr 14 2016,0,465,89675,False,False,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+8944,Tap Tap Legions - Epic battles within 5 seconds!,Feb 8 2016,0,256,144914,False,True,True,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+8977,Riders of Icarus,Jul 6 2016,0,4409,1504922,True,False,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+8978,Perfect World International,Apr 19 2016,0,162,97028,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+8982,Iron Madness,Mar 2 2016,0,0,44837,False,True,True,False,True,False,False,True,True,True,True,True,False,0.0,0.0,0.0
+8986,Fantasy Tales Online,May 5 2016,0,304,128594,True,True,False,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+8990,UFO Online: Invasion,Jun 8 2016,0,322,152088,True,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+9008,Antenna,Apr 7 2016,0,1476,187241,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9055,SpellKnights,Jul 13 2016,0,0,70305,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+9056,Bloons TD Battles,Apr 20 2016,0,2079,728697,True,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9070,Zaccaria Pinball,Jun 16 2016,0,107,58827,False,False,False,False,True,False,False,True,True,True,True,False,False,0.0,0.0,0.0
+9080,The Average Everyday Adventures of Samantha Browne,Apr 18 2016,0,565,81604,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9085,Lost girl`s [diary],Mar 24 2016,0,704,94159,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9144,IKEA VR Experience,Apr 4 2016,0,184,165181,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9150,Regeria Hope Episode 1,Jul 25 2016,0,191,52011,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9184,Bitardia Cards: Memes of 2ch,May 19 2016,0,130,47707,False,False,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9199,Origin Of Destiny,Apr 1 2016,0,0,57571,False,True,False,True,False,False,True,False,True,True,False,False,False,0.0,0.0,0.0
+9221,The Divergent Series: Allegiant VR,Mar 17 2016,0,0,72278,False,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9222,Steno Arcade,Mar 30 2016,0,128,63848,False,True,False,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+9223,The Bottom of the Well,Mar 3 2016,0,302,92903,False,False,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+9224,Jesus Christ RPG Trilogy,Mar 18 2016,0,716,126800,False,False,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+9225,Rock Paper Scissors Champion,Mar 2 2016,0,357,83398,False,False,False,False,True,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+9231,Istrolid,May 6 2016,0,1260,356726,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9248,Atulos Online,Apr 30 2016,0,217,64566,False,False,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+9262,Jacob,Jul 18 2016,0,0,33180,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9282,The Lab,Apr 5 2016,0,960,408379,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9301,Khan: Absolute Power,Mar 18 2016,0,125,77300,True,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+9306,Wartune,Aug 15 2016,0,0,24212,True,False,False,False,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+9337,The Cubicle.,Apr 5 2016,0,279,131284,False,True,True,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+9342,Realities,Apr 5 2016,0,134,154061,False,False,False,True,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+9343,RuneScape: Idle Adventures,Sep 1 2016,0,449,159621,True,False,False,False,True,False,True,False,True,True,False,False,False,0.0,0.0,0.0
+9355,Destinations,Jun 9 2016,0,0,112990,False,False,False,False,True,False,False,True,True,True,False,False,False,0.0,0.0,0.0
+9377,Midnight Animal, ,0,0,0,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9384,Black Rose,Mar 15 2016,0,362,111555,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9422,LuckCatchers,Jun 15 2016,0,301,137023,True,False,False,False,False,True,True,True,True,True,False,False,True,0.0,0.0,0.0
+9426,Age of Cavemen,May 24 2016,0,438,163926,True,False,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+9444,Jackpot Poker by PokerStars,Summer 16,0,0,0,False,False,False,False,True,True,False,False,False,True,True,False,True,0.0,0.0,0.0
+9492,Surgeon Simulator VR: Meet The Medic,Apr 5 2016,0,0,251627,False,True,True,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+9538,Cabals: Magic & Battle Cards,Coming Soon,0,0,0,True,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+9545,Plastic Playground,Apr 18 2016,0,114,81066,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9559,Intruder Alert: Ixian Operations,Jul 21 2016,0,0,31924,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9566,Allods Online My.com,Jun 3 2016,0,134,98284,True,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+9579,Crush Crush,May 13 2016,0,1979,309557,True,True,False,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+9613,SurrealVR,Apr 15 2016,0,0,69588,False,True,False,True,True,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+9627,MANDAGON,Aug 3 2016,0,2120,305253,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9638,Ghoul Kid,Apr 26 2016,0,0,73533,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9641,Legionwood 1: Tale of the Two Swords,May 10 2016,0,0,56136,False,False,False,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+9648,Forge of Gods (RPG),May 6 2016,0,1125,230644,True,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+9651,Skyreach,Apr 29 2016,0,0,99898,False,True,False,False,True,False,False,False,False,True,False,True,False,0.0,0.0,0.0
+9676,AdVenture Communist,Aug 23 2016,0,1000,353139,True,True,False,False,True,True,False,True,True,True,False,False,False,0.0,0.0,0.0
+9682,Wander No More,May 31 2016,0,0,0,False,True,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+9686,Clover Tale,Jun 15 2016,0,365,55778,True,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9699,One Tower, ,0,0,27979,True,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+9704,One Thousand Lies,Apr 24 2016,0,427,85729,False,False,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+9748,Maui,Apr 26 2016,0,202,121061,False,True,True,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9750,ChuSingura46+1 S,Jun 21 2016,0,568,214861,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9751,Twisted Worlds,Jun 17 2016,0,0,54881,True,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9816,Vintage VR,May 2 2016,0,0,46810,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9827,Worm.is: The Game,May 4 2016,0,3180,1098516,True,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9843,Khimera: Destroy All Monster Girls,May 8 2016,0,222,54881,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9878,Blind Trust,May 27 2016,0,894,201410,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9881,NVIDIA(r) VR Funhouse,Jul 14 2016,0,249,163208,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9889,Legion TD 2,Dec 2016,0,0,0,True,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+9894,Fable Fortune,Coming Soon,0,0,2332,False,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9896,Paradox Paradigm,May 23 2016,0,0,803,False,True,False,False,False,True,False,False,False,True,False,False,False,4.99,4.99,0.00400697
+9899,NEKOPALIVE,May 31 2016,0,702,140789,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9904,Eclipse --- Defending the motherland,May 26 2016,0,0,66718,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9941,Rexodus: A VR Story Experience,Jun 8 2016,0,0,59544,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9950,Ortus Regni,Jun 21 2016,0,0,49321,False,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+9951,Elisa: The Innkeeper - Prequel,Jun 14 2016,0,312,112632,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9979,BallisticNG,May 31 2016,0,404,110659,False,True,False,False,False,False,False,False,True,True,False,True,False,0.0,0.0,0.0
+9987,The NADI Project,Jun 1 2016,0,140,69408,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+9988,The Abbey of Crime Extensum,May 19 2016,0,0,55957,False,False,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10008,Kalonline,Jul 13 2016,0,244,119985,True,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+10018,Crush Online,September 2016,0,0,108148,False,False,True,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+10051,Pinata,Sep 1 2016,0,0,22777,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+10130,Hero Zero,Jul 5 2016,0,903,256649,True,True,False,True,True,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+10133,PolyDome,Aug 9 2016,0,0,28696,False,False,False,False,True,False,False,True,True,True,False,False,False,0.0,0.0,0.0
+10198,Legend of Numbers,Jun 2 2016,0,0,41609,True,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+10267,Galaxy Combat Wargames,Sep 29 2016,0,0,14707,True,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10276,Galaxy in Turmoil,20XX,0,0,0,False,True,True,True,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+10293,The Infinite Black,Sep 2016,0,0,35511,False,True,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+10323,SWARMRIDERS,Jun 15 2016,0,156,54702,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10375,Red Trigger,Jul 8 2016,0,887,216296,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10420,Shonen Idle Z,Jul 22 2016,0,233,100436,True,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10433,Ragnarok Clicker,Aug 3 2016,0,487,147784,True,False,False,True,True,True,True,True,False,True,False,False,False,0.0,0.0,0.0
+10438,Thanatos,Aug 24 2016,0,142,40533,True,False,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+10449,Jonahs Path,Jul 7 2016,0,0,52370,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10516,Dungeon Fighter Online,Aug 9 2016,0,721,304356,False,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+10533,A Verdant Hue,Jul 26 2016,0,0,1435,False,True,False,False,True,True,False,True,False,True,False,False,False,14.99,14.99,0.021510650000000003
+10564,Moirai,Jul 22 2016,0,8475,363004,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10597,Trick & Treat,Sep 2016,0,0,94876,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10608,Quanero VR,Aug 12 2016,0,110,70126,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10610,Zezenia Online,Jul 7 2016,0,109,56495,False,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+10612,Destiny of Ancient Kingdoms(tm),Aug 29 2016,0,0,60800,True,False,True,True,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+10629,MSI Electric City,Aug 9 2016,0,0,47528,False,True,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+10686,VRMultigames,Jul 25 2016,0,0,47707,False,True,True,False,True,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+10687,UNCORPOREAL - Fluffy!,Jul 20 2016,0,0,33359,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10708,Emerland Solitaire: Endless Journey,Jul 17 2016,0,0,29593,True,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10718,UNCORPOREAL - Alcatraz Island Lofts,Jul 20 2016,0,0,31745,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10723,Hold the door!,Sep 2 2016,0,0,21163,False,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+10742,The Mind Hero,To Be Announced,0,0,0,False,True,False,False,True,False,True,True,False,True,False,False,False,0.0,0.0,0.0
+10761,Strike.is: The Game,Jul 14 2016,0,1035,408020,True,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+10782,Angels & Demigods,Sep 23 2016,0,0,18473,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+10851,Shop Heroes,Aug 15 2016,0,930,246068,True,False,False,False,True,True,True,True,False,True,False,False,True,0.0,0.0,0.0
+10939,The Last Weekend,Dec 30 2016,0,0,0,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10948,You Have 10 Seconds,Aug 2 2016,0,688,223290,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+10963,Big Bang Empire,Aug 23 2016,0,260,71919,True,True,False,True,True,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+10967,Driftwood The Visual Novel,Aug 8 2016,0,0,23136,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+10969,The Sun Will Rise,Oct 2016,0,0,17218,False,True,True,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+11017,The Pirate: Caribbean Hunt,Aug 24 2016,0,763,375737,True,True,True,True,False,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+11019,Heroes of Card War,10-2016,0,0,0,True,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+11029,Kuboom,Sep 16 2016,0,0,196567,True,False,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11044,Path of War,Sep 12 2016,0,0,97566,True,True,False,False,False,True,False,False,False,True,False,False,True,0.0,0.0,0.0
+11080,Beat The Dictators,Aug 29 2016,0,0,0,False,False,True,False,True,False,False,False,False,True,False,False,False,4.99,4.99,0.0
+11095,The VR Museum of Fine Art,Aug 20 2016,0,0,49321,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+11111,Orake 2D MMORPG,Aug 23 2016,0,0,30489,False,True,True,True,False,True,True,False,True,True,False,False,True,0.0,0.0,0.0
+11181,Minds Eyes,Aug 31 2016,0,415,153165,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11183,The Journey Home,Aug 22 2016,0,0,22060,False,False,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+11474,Epic Battle Fantasy 3,Sep 1 2016,0,141,83398,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+11479,Tuebor,Sep 14 2016,0,0,19370,True,True,True,False,True,False,True,False,True,True,True,False,True,0.0,0.0,0.0
+11482,Magical Otoge Ciel,Aug 26 2016,0,0,22957,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+11484,You Have 10 Seconds 2,Aug 25 2016,0,265,130925,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11585,Die 4te Offenbarung,Holiday 2016,0,0,0,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+11735,Found,Sep 14 2016,0,0,22598,False,True,False,True,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+11773,Paladins,Sep 15 2016,0,16029,5979874,True,False,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+11778,About Elise,2016,0,0,0,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11795,Stash: No Loot Left Behind,Sep 27 2016,0,0,1076,False,True,False,True,False,False,True,False,True,True,False,False,True,14.99,14.99,0.01612924
+11800,Pandum online,Sep 16 2016,0,0,18832,True,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+11805,Berserk: The Cataclysm,Sep 22 2016,0,0,19190,True,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+11810,Astroflux,Sep 27 2016,0,0,36229,True,True,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+11844,Rollout,Sep 14 2016,0,0,16141,False,True,True,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+11845,Riding Club Championships,Sep 27 2016,0,0,62593,True,False,True,False,False,False,False,False,False,True,True,True,False,0.0,0.0,0.0
+11849,Soccer Manager 2017,Sep 16 2016,0,135,217551,True,True,False,False,False,True,False,False,False,True,True,False,False,0.0,0.0,0.0
+11857,Rescue Bear Operation,Sep 2016,0,0,15245,False,True,True,True,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+11899,True or False,Sep 16 2016,0,770,184730,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11903,SnookerWorld-Best online multiplayer snooker game!,Sep 15 2016,0,0,23495,True,True,False,False,True,False,False,True,False,True,True,False,False,0.0,0.0,0.0
+11916,League Of Guessing,October - 2016,0,0,78376,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11917,Helmet Heroes,Oct 3 2016,0,0,107251,True,False,True,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+11924,Six Feet Under,Sep 20 2016,0,0,17218,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11980,The Bellows: VR Demo,Sep 13 2016,0,0,31207,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+11981,Disturbed,Oct 3 2016,0,0,93620,False,True,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+12002,HEBEREKE!: March! Red Army Girls Brigade,Sep 30 2016,0,0,18114,False,False,False,False,False,True,True,True,False,True,False,False,False,0.0,0.0,0.0
+12009,Bloody Walls,Sep 29 2016,0,0,100794,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12011,Egg Time,Sep 19 2016,0,0,19190,False,True,True,False,True,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+12024,Think To Die,Sep 22 2016,0,0,35511,False,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12026,Zombie Defense,Sep 30 2016,0,0,257546,True,True,True,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12057,Nova Blitz,Oct 25 2016,0,0,13810,True,True,True,False,False,True,False,False,True,True,False,False,True,0.0,0.0,0.0
+12064,Business Tour,Oct 6 2016,0,0,8609,True,True,False,False,True,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12088,World of Tanks Blitz,November 2016,0,0,788241,True,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+12094,Manekis Curse,Oct 26 2016,0,0,11299,False,True,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+12099,Spellstone,Nov 2016,0,0,32642,True,False,False,True,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+12100,Shadowverse,Oct 26 2016,0,0,343634,True,False,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12104,High Octane Drift,Oct 14 2016,0,698,443532,True,False,False,False,False,False,False,True,True,True,True,True,False,0.0,0.0,0.0
+12106,Winning Putt,Oct 25 2016,0,0,88240,True,False,False,False,False,False,False,True,False,True,True,False,True,0.0,0.0,0.0
+12119,Off-Peak,Oct 21 2016,0,0,77479,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12137,Campaign Clicker,Oct 5 2016,0,193,102947,True,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12142,Astral Heroes,Oct 20 2016,0,0,37305,True,True,False,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12147,Veterans Online,Late 2017,0,0,5560,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12173,Trimmer Tycoon,Oct 2016,0,0,130028,False,True,False,False,True,True,False,True,False,True,False,False,False,0.0,0.0,0.0
+12202,Hunger Dungeon,Oct 5 2016,0,622,375199,True,True,True,False,False,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+12205,PooShooter: Toilet Invaders,Oct 3 2016,0,0,15603,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12219,Zone4,Q4 2016,0,0,76044,True,False,True,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+12238,The Fishing Club 3D,Dec 5 2016,0,0,0,True,False,False,False,True,False,False,False,False,True,True,False,False,0.0,0.0,0.0
+12254,Gobernators (Parodia politica peruana),Oct 1 2016,0,0,14527,False,True,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12257,Doorways: Old Prototype,Oct 5 2016,0,0,63848,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12258,Project Fire,Oct 1 2016,0,0,19549,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+12282,Awkward Dimensions Redux,Oct 21 2016,0,352,137382,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12295,Blameless,Oct 13 2016,0,1219,262030,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12300,emoj.io,Oct 14 2016,0,114,20625,False,True,True,False,True,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+12304,Beneath The Cherry Trees / Ying noShu noXia niha,Oct 14 2016,0,0,13810,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12342,Tiger Knight: Empire War,Oct 24 2016,0,439,501461,True,False,True,False,False,True,False,False,True,True,False,False,True,0.0,0.0,0.0
+12352,Climbtime,Oct 19 2016,0,0,16680,False,False,False,False,True,False,False,False,True,True,False,False,False,0.0,0.0,0.0
+12359,WAR7,Oct 21 2016,0,0,13272,True,True,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+12366,Please State Your Name : A VR Animated Film,Nov 7 2016,0,0,13451,False,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12382,Digimon Masters Online,Nov 2016,0,0,452678,True,False,True,True,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+12406,Plenty: Skyhearth,Oct 20 2016,0,0,16859,False,True,True,False,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+12412,Racecar.io,Oct 18 2016,0,0,35691,False,False,False,False,False,False,False,False,False,True,False,True,True,0.0,0.0,0.0
+12444,Win Big Or Die,Oct 13 2016,0,0,11837,False,False,True,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12447,Escape the Game,Oct 13 2016,0,590,136485,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12458,Drift GEAR Racing Free,Oct 21 2016,0,0,27261,False,True,False,False,False,False,False,False,False,True,True,True,False,0.0,0.0,0.0
+12479,The Puppet Master,Oct 21 2016,0,0,12554,False,True,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12492,PHAT PHROG,November 2016!,0,0,11837,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12499,Brief Karate Foolish,Nov 18 2016,0,0,35870,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12503,Vanguards,Oct 28 2016,0,0,17038,False,False,True,False,False,True,False,False,False,True,False,False,False,0.0,0.0,0.0
+12509,Mausoleum of the Medusa,Halloween 2016,0,0,12554,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12528,Battle Islands: Commanders,Nov 3 2016,0,0,112811,True,False,True,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+12588,Organ Quarter Pre-Alpha Demo,Oct 28 2016,0,0,14348,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12606,7D Game (VR for VIVE),Oct 26 2016,0,0,12196,False,True,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+12608,Guild Quest,Coming Soon,0,0,0,False,True,False,False,True,True,True,True,True,True,False,False,False,0.0,0.0,0.0
+12612,Clown2Beat,Oct 26 2016,0,0,14527,False,True,True,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12624,Heroes of Havoc: Idle Adventures,Coming Soon,0,0,0,True,False,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+12636,Google Earth VR,Nov 16 2016,0,813,156752,False,False,False,True,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+12652,The Spookening,Nov 1 2016,0,0,11299,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12661,Gods and Idols,Dec 12 2016,0,0,533,False,False,False,False,False,True,True,False,True,True,False,False,True,0.0,0.0,0.0
+12687,Palinurus,Dec 9 2016,0,0,0,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12713,Angeldust,Nov 18 2016,0,612,133077,False,True,True,False,False,False,True,False,True,True,False,False,True,0.0,0.0,0.0
+12721,Project Syria,Nov 1 2016,0,0,13093,False,True,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+12766,Heroes of Dire,December 2016,0,0,0,True,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+12767,Lazarus,Hitting Early Access in 2017,0,0,2332,False,False,True,False,False,False,False,False,False,True,False,False,True,0.0,0.0,0.0
+12768,Dragon Souls,1st Quarter 2017,0,0,0,True,True,True,True,False,True,True,False,False,True,False,False,False,0.0,0.0,0.0
+12778,Drop Alive,Dec 6 2016,0,0,1076,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12826,Lifeliqe VR Museum,Nov 4 2016,0,0,11120,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+12846,Operation: New Earth,Dec 12 2016,0,0,0,True,False,False,False,False,True,False,True,False,True,False,False,True,0.0,0.0,0.0
+12857,Ley Lines,Dec 5 2016,0,0,1435,False,True,True,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12863,Eternal Card Game,Nov 18 2016,0,574,59365,True,False,False,False,True,True,False,False,True,True,False,False,True,0.0,0.0,0.0
+12867,Time Leap Paradise SUPER LIVE!,Dec 15 2016,0,0,0,False,False,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12868,ComPet,Nov 29 2016,0,0,4304,True,False,False,False,False,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+12869,CAYNE,JAN 24,0,0,0,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12880,Sword and Shield,early 2017,0,0,0,False,True,True,False,False,False,False,True,True,True,False,False,False,0.0,0.0,0.0
+12885,Heroes Evolved,Jan 2017,0,0,0,True,False,True,False,True,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+12898,MagixHome(tm) VR,Nov 3 2016,0,0,11299,False,False,False,False,False,False,False,True,True,True,False,False,False,0.0,0.0,0.0
+12925,Nodiatis,Nov 14 2016,0,0,10402,True,True,False,True,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+12934,Wheres the Fck*ng Light - VR,Nov 2016,0,0,0,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12940,Kickoff Legends,Dec 2016,0,0,0,False,False,False,False,True,False,False,True,False,True,True,False,True,0.0,0.0,0.0
+12970,Lost Sector Online Europe,Jan 26 2017,0,0,0,False,False,False,False,False,True,True,False,False,True,False,False,True,0.0,0.0,0.0
+12975,Wanderland,Dec 19 2016,0,0,533,True,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+12996,Terminal Hacker,Dec 1 2016,0,0,7353,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13001,Dark War,2016-11-11,0,0,0,True,False,True,False,True,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+13014,Dark Eden,Nov 28 2016,0,0,16859,False,False,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+13028,Counter Agents,Dec 1 2016,0,0,6098,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13035,Evolution VR,Nov 10 2016,0,0,14348,False,True,True,False,True,True,False,False,True,True,False,False,False,0.0,0.0,0.0
+13041,VRchaeology: Prologue,Dec 1 2016,0,0,6457,False,False,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13092,CAGE,Nov 14 2016,0,0,10044,False,True,True,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13116,Fastigium,Dec 16 2016,0,0,0,False,True,True,True,True,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+13122,Into The Unknown,Nov 9 2016,0,0,11299,False,True,False,True,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13153,Rescue the Great Demon 2,Nov 18 2016,0,285,73533,False,True,False,True,False,False,True,False,False,True,False,False,False,0.0,0.0,0.0
+13170,Infestation: The New Z,Nov 22 2016,0,6925,864286,True,True,True,False,False,False,True,False,False,True,False,False,True,0.0,0.0,0.0
+13229,Atom Fishing II,Nov 29 2016,0,133,24750,True,False,False,False,False,False,False,True,False,True,False,False,True,0.0,0.0,0.0
+13233,Sunsets Ashes,Nov 17 2016,0,0,6995,False,True,False,False,True,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13249,Cosmic Sugar VR,Nov 27 2016,0,0,6277,False,False,False,False,False,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+13263,Broken Blue,Dec 9 2016,0,0,0,False,True,False,False,True,False,False,True,False,True,False,False,False,0.0,0.0,0.0
+13282,REALITY,Nov 30 2016,0,0,3946,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
+13319,Ludu,Dec 4 2016,0,0,1973,False,True,False,True,False,False,False,False,False,True,False,False,False,0.0,0.0,0.0
