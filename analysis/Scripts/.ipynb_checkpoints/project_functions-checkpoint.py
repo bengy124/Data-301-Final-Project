@@ -1,9 +1,10 @@
 import pandas as pd
 import numpy as np
+import seaborn as sns
 def load_and_process(csv):
     data=pd.read_csv(csv)
-#Drop Unwanted Columns
-    df1 = (pd.DataFrame(data)
+#Drop Unwanted Columns & remove non-games
+    df1 = (pd.DataFrame(data[data['GenreIsNonGame'] != True])
            .drop('DemoCount',axis=1)
            .drop('Reviews',axis=1)
            .drop('Website',axis=1)
@@ -54,7 +55,6 @@ def load_and_process(csv):
            .drop('CategoryMultiplayer',axis=1)
            .drop('CategoryCoop',axis=1)
            .drop('CategoryMMO',axis=1)
-           .drop('CategoryInAppPurchase',axis=1)
            .drop('CategoryIncludeSrcSDK',axis=1)
            .drop('CategoryIncludeLevelEditor',axis=1)
            .drop('CategoryVRSupport',axis=1)
@@ -108,7 +108,7 @@ def plotOwners(df):
     Sports = dfSports["Owners"].sum()
     Racing = dfRacing["Owners"].sum()
     MassivelyMultiplayer = dfMM["Owners"].sum()
-    print('Total Games : ', Total, ' Indie : ', Indie,' Action  : ', Action, ' Casual  : ', Casual,' Adventure  : ', Adventure, ' Strategy: ', Strategy, 'RPG  : ', RPG, ' Simulation  : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
+    print('Total Owners : ', Total, ' Indie : ', Indie,' Action  : ', Action, ' Casual  : ', Casual,' Adventure  : ', Adventure, ' Strategy: ', Strategy, 'RPG  : ', RPG, ' Simulation  : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
     ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
     dataFrame=pd.DataFrame(data=ap)
     dataFrame.plot.bar(x="Genre",y="Owners")
@@ -169,6 +169,11 @@ def plotRevenue(df):
     Racing = dfRacing["RevenueMillions"].sum()
     MassivelyMultiplayer = dfMM["RevenueMillions"].sum()
     print('Total  : ', Total, ' Indie  : ', Indie,' Action  : ', Action, ' Casual  : ', Casual,' Adventure : ', Adventure, ' Strategy : ', Strategy, 'RPG  : ', RPG, ' Simulation  : ', Simulation, ' Early Access : ', EarlyAccess,' Free To Play : ', FreeToPlay, ' Sports : ' ,Sports, ' Racing : ', Racing, ' Massively Multiplayer :  ', MassivelyMultiplayer)
-    ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Owners":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
+    ap= {"Genre":["Total","Indie", "Action","Casual", "Adventure", "Strategy","RPG","Simulation", "Early Access", "Free to Play","Sports","Racing","Massively Multiplayer"], "Revenue":[Total, Indie, Action, Casual, Adventure, Strategy,RPG,Simulation,EarlyAccess,FreeToPlay,Sports,Racing,MassivelyMultiplayer]}
     dataFrame=pd.DataFrame(data=ap)
-    dataFrame.plot.bar(x="Genre",y="Owners")
+    dataFrame.plot.bar(x="Genre",y="Revenue")
+def genreratingplot(data1,genre):
+    dfrated = data1.loc[lambda x: x['Rating']>0]
+    genresplit = dfrated[dfrated[genre] == True]
+    genreplot = sns.displot(x="Rating", data=genresplit, bins = 20).set(title=("Rating Histogram for "+genre))
+    return genreplot

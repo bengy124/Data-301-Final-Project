@@ -4,3 +4,4 @@
   1. Introduced the graphs being used for data analysis
   2. Added functions file as import was not working
   3. more explaination will be given inline with graphs
+** Fixed Scripts relative import
