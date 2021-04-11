@@ -24,6 +24,11 @@
   - **Cawston**: This data intrest me as I have played a video game before.
   - **Bengy**: I bought an expensive gaming PC just to play Roblox and Minecraft. 
 
+## Lab 7 Dashboards
+
+  [Austin](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346870/views)
+  [Cawston](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346904/views)
+
 ## References
 
   https://github.com/CraigKelly/steam-data  
