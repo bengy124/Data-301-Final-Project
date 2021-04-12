@@ -31,9 +31,9 @@
 4. How do game ratings compare across genres?
 5. How do game ratings compare across genres?
 ## Milestone 4 Video
-
+<figure class="video_container">
 <iframe src="https://drive.google.com/file/d/1f5tWDAQyAtBbTc1lXqUXWcGQLNjLGWJz/preview" width="640" height="480"></iframe>
-
+</figure>
 ## Lab 7 Dashboards
 
   [Austin](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346870/views)
