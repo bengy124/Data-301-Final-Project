@@ -24,6 +24,16 @@
   - **Cawston**: This data intrest me as I have played a video game before.
   - **Bengy**: I bought an expensive gaming PC just to play Roblox and Minecraft. 
 
+## Research Questions
+1. What game genres are the most popular (they have the most owners)?
+2. What game genres make the most money?
+3. Does the amount of games in a genre correlate to the genres popularity?
+4. How do game ratings compare across genres?
+5. How do game ratings compare across genres?
+## Milestone 4 Video
+
+<iframe src="https://drive.google.com/file/d/1f5tWDAQyAtBbTc1lXqUXWcGQLNjLGWJz/preview" width="640" height="480"></iframe>
+
 ## Lab 7 Dashboards
 
   [Austin](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346870/views)
